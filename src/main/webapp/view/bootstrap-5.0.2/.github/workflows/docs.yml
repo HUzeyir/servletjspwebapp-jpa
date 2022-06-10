@@ -36,5 +36,5 @@ jobs:
       - name: Install npm dependencies
         run: npm ci
 
-      - name: Test docs
+      - name: az.myresume.Test docs
         run: npm run docs
